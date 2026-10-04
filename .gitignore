@@ -1,3 +1,6 @@
 node_modules
 dist
 .vite
+
+# 验证脚本生成物
+scripts/verify.mjs
